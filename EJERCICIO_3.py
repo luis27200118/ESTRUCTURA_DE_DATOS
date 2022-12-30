@@ -10,4 +10,4 @@ def seleccion_orden(lista,largo_lista,contador):
         seleccion_orden(lista,largo_lista,contador+1)
 A=[7,2,5,3,1,4,9,6]
 seleccion_orden(A,len(A),0)
-print(A)
+print(A)#hol
